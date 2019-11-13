@@ -74,5 +74,8 @@
             </plugin>
         </plugins>
     </build>
+    <scm>
+        <developerConnection>scm:git@github.com:DariaKowalska/pet-clinic.git</developerConnection>
 
+    </scm>
 </project>
